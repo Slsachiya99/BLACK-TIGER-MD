@@ -1,4 +1,4 @@
-# QUEEN-BIXBY-MD-PRO
+# BLACK-TIGER-MD
 #### TOTAL REPO VIEWS📍
 
 ![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
@@ -35,7 +35,7 @@
 
 </p>
 
-  <p align="center"><a href="https://github.com/darkalphaxteam/Queen-Bixby-MD-Pro/fork"><img align="center" src="https://i.imgur.com/vUIRd80.png" alt="Fork and deploy" height="112" width="300" /></a>
+  <p align="center"><a href="https://github.com/darkalphaxteam/Queen-Bixby-MD-Pro/fork"><img align="center" src="https://i.imgur.com/XHhlqtK.jpeg" alt="Fork and deploy" height="112" width="300" /></a>
 
 <br>
 
@@ -60,14 +60,14 @@ https://heroku.com/deploy?template=https://github.com/darkalphaxteam/QUEEN-BIXBY
 
 ``` 
 
-6. Now change `darkalphaxteam´ with your github username and click ENJOY<br>
+6. Now change `ˢᴸ ˢᴬᶜᴴᴵʸᴬ ᴮᴸᴬᶜᴷ ᵀᴵᴳᴱᴿ´ with your github username and click ENJOY<br>
 
    <br>
 
 # Contact for help:
 
-   * Click [Contact](https://wa.me/94711421243) Here For Contact
+   * Click [Contact](https://wa.me/94767233346) Here For Contact
 
       </br> <p/>
-
-      <br>   <p align="center">💻 SPECIAL THANKS FOR NIMA,AFX-ABU AND IMASH 💻
+ 
+      <br>   <p align="center"> ♲ 𝐒𝐋 𝐒𝐀𝐂𝐇𝐈𝐓𝐇 𝐓𝐌 ♲  𝐁𝐋𝐀𝐂𝐊 𝐓𝐈𝐆𝐄𝐑 ♲
