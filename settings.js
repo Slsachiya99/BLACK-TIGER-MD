@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94711421243']
-global.premium = ['94711421243']
-global.ownernomer = '94711421243'
+global.owner = ['94704274987']
+global.premium = ['94704274987']
+global.ownernomer = '94704274987'
 global.ownername = 'BLACK TIGER '
 global.botname = 'SACHIYA -MD USER BOT'
 global.footer = ' 𝙱𝙻𝙰𝙲𝙺 𝚃𝙸𝙶𝙴𝚁 𝙼𝙳 𝚂𝙻.'
